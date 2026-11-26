@@ -1,0 +1,3 @@
+-- ARQUIVO LEGADO. Nao execute separadamente.
+-- A migracao de compatibilidade foi incorporada em NEUROCONECTA_COMPLETO.sql.
+-- Use somente o arquivo database/NEUROCONECTA_COMPLETO.sql para novas instalacoes.
